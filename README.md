@@ -16,7 +16,7 @@ python3 -m http.server 8791 --directory site
 
 然後打開 http://localhost:8791 。
 
-線上版：https://purduephoebe.github.io/ntnu-island/ （GitHub Pages，repo `purduephoebe/purduephoebe.github.io` 的 `ntnu-island/` 資料夾）。要更新，把 `site/` 的內容同步到那個資料夾再 push。
+線上版：https://purduephoebe.github.io/ntnu-island/ ；原始碼：https://github.com/purduephoebe/ntnu-lion-isles 。線上版（GitHub Pages，repo `purduephoebe/purduephoebe.github.io` 的 `ntnu-island/` 資料夾）。要更新，把 `site/` 的內容同步到那個資料夾再 push。
 
 ## 檔案
 
