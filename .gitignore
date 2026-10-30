@@ -1,0 +1,7 @@
+# working notes stay local (see README for the project)
+CLAUDE.md
+LOG.md
+MEMORY.md
+.claude/
+site/**/.claude/
+.DS_Store
